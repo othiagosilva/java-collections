@@ -6,4 +6,5 @@ O intuito desse repositório é utilizar o básico de POO e focar no uso de Coll
 * Map
 * List
 * Set
+
 Assim como aprender sobre o Hash.
